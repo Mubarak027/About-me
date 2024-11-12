@@ -1,0 +1,29 @@
+.mubarak{
+    border-radius: 100%;
+}
+h2{
+    text-align: center;
+}
+.codelappy{
+    float:left ;
+    gap: 10px;
+    padding-right: 10px;
+}
+.coder{
+    gap: 10px;
+    justify-content: center;
+}
+.gamepad{
+    float: left;
+}
+.Gaming{
+    gap: 10px;
+    justify-content: center;
+    padding-left: 20px; 
+}
+.footer{
+    text-align: center;
+}
+.text-body-secondary{
+    color: black;
+}
